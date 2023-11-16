@@ -3,8 +3,8 @@ Docs 11-16-23 V1 (For questions or comments:  Stephen Witty switty@level500.com)
 
 ### Project Overview:
 
-Count GPT is an automated system that measures how well ChatGPT counts LEDs in an image using a Raspberry Pi with added camera.  The system randomly turns on LEDs, takes a picture, then submits the photo to ChatGPT.  ChatGPT replies back with the number of LEDs turned on.  The accuracy is measured over several test runs.
-<img src="Pics/Count_GPT1" width="800">
+Count GPT is an automated system that measures how well ChatGPT counts LEDs in an image using a Raspberry Pi with an added camera.  The system randomly turns on LEDs, takes a picture, then submits the photo to ChatGPT.  ChatGPT replies back with the number of LEDs turned on.  The accuracy is measured over several test runs.
+<img src="Pics/Count_GPT1.jpg" width="400">
 
 ### Demo Video:
 https://youtu.be/Xz_S8WvnXx8
