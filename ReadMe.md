@@ -8,7 +8,7 @@ Count GPT is an automated system that measures how well ChatGPT counts LEDs in a
 <img src="Pics/Count_GPT1.jpg" width="300">
 
 ### Demo Video:
-https://youtu.be/Xz_S8WvnXx8
+https://youtu.be/GvgNcLHDl_8
 
 ### Usage:
 
